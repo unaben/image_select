@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 800px;
+  margin: 25px auto;
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  font-size: 1em;
+  border: none;
+  border-radius: 10px;
+  background-color: aqua;
+  color: black;
+}
